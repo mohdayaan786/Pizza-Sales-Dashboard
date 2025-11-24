@@ -6,7 +6,7 @@
 
 ## Preview
 
-![Dashboard overview](/mnt/data/5d29cd1b-0b50-481c-9c12-77b5628f3c14.png)
+<img width="1410" height="786" alt="image" src="https://github.com/user-attachments/assets/6ad8e5dd-ad8d-4569-99d4-1bb245170761" />
 
 ![Detailed view](/mnt/data/b2272fae-0498-497d-90f5-e2b04f424a72.png)
 
@@ -216,3 +216,4 @@ use Pizza_DB;
 ---
 
 Happy to help — tell me which next step you want! 🎯
+
