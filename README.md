@@ -8,8 +8,6 @@
 
 <img width="1410" height="786" alt="image" src="https://github.com/user-attachments/assets/6ad8e5dd-ad8d-4569-99d4-1bb245170761" />
 
-![Detailed view](/mnt/data/b2272fae-0498-497d-90f5-e2b04f424a72.png)
-
 ---
 
 ## Table of Contents
@@ -216,4 +214,5 @@ use Pizza_DB;
 ---
 
 Happy to help — tell me which next step you want! 🎯
+
 
